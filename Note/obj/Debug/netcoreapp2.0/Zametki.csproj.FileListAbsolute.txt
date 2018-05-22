@@ -1,0 +1,11 @@
+C:\Проекты\Note\Note\bin\Debug\netcoreapp2.0\Zametki.deps.json
+C:\Проекты\Note\Note\bin\Debug\netcoreapp2.0\Zametki.runtimeconfig.json
+C:\Проекты\Note\Note\bin\Debug\netcoreapp2.0\Zametki.runtimeconfig.dev.json
+C:\Проекты\Note\Note\bin\Debug\netcoreapp2.0\Zametki.dll
+C:\Проекты\Note\Note\bin\Debug\netcoreapp2.0\Zametki.pdb
+C:\Проекты\Note\Note\obj\Debug\netcoreapp2.0\Zametki.csprojAssemblyReference.cache
+C:\Проекты\Note\Note\obj\Debug\netcoreapp2.0\Zametki.csproj.CoreCompileInputs.cache
+C:\Проекты\Note\Note\obj\Debug\netcoreapp2.0\Zametki.AssemblyInfoInputs.cache
+C:\Проекты\Note\Note\obj\Debug\netcoreapp2.0\Zametki.AssemblyInfo.cs
+C:\Проекты\Note\Note\obj\Debug\netcoreapp2.0\Zametki.dll
+C:\Проекты\Note\Note\obj\Debug\netcoreapp2.0\Zametki.pdb

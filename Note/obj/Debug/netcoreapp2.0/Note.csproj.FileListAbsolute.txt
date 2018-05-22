@@ -1,0 +1,10 @@
+C:\Проекты\Note\Note\bin\Debug\netcoreapp2.0\Note.deps.json
+C:\Проекты\Note\Note\bin\Debug\netcoreapp2.0\Note.runtimeconfig.json
+C:\Проекты\Note\Note\bin\Debug\netcoreapp2.0\Note.runtimeconfig.dev.json
+C:\Проекты\Note\Note\bin\Debug\netcoreapp2.0\Note.dll
+C:\Проекты\Note\Note\bin\Debug\netcoreapp2.0\Note.pdb
+C:\Проекты\Note\Note\obj\Debug\netcoreapp2.0\Note.csproj.CoreCompileInputs.cache
+C:\Проекты\Note\Note\obj\Debug\netcoreapp2.0\Note.AssemblyInfoInputs.cache
+C:\Проекты\Note\Note\obj\Debug\netcoreapp2.0\Note.AssemblyInfo.cs
+C:\Проекты\Note\Note\obj\Debug\netcoreapp2.0\Note.dll
+C:\Проекты\Note\Note\obj\Debug\netcoreapp2.0\Note.pdb
